@@ -1,0 +1,4 @@
+baseURL = 'https://LiuShuoJiang.github.io'
+languageCode = 'en-us'
+title = "Shuojiang Liu's Personal Website"
+theme = 'hugo-theme-relearn'
