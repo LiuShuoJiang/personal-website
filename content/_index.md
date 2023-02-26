@@ -8,6 +8,8 @@ draft: false
 
 **Undergraduate Student, Xi'an Jiaotong University**
 
+Note: The site is still under construction, so the relevant content is not exhaustive and complete!
+
 \_Email: Leo2001@stu.xjtu.edu.cn; leoshuojiang@gmail.com
 
 ## About Me
@@ -33,3 +35,12 @@ Graph Neural Networks, Reinforcement Learning, Image Processing, Computational B
   - [School of Computing (SoC)](https://www.comp.nus.edu.sg/)
   - December 2022 ~ May 2023
   - Supervisor: [Yi-Chieh Lee](https://www.yclee.net)
+
+## Skills
+
+**C++/C**: JetBrains CLion, Visual Studio, Arm Keil µVision IDE, Visual Studio Code, Renesas CubeSuite+…
+
+**Python**: PyTorch, PyTorch-Geometric, OpenCV, Scikit-Learn, Scikit-Image, Pillow, DEAP, Matplotlib, NumPy, Pandas, NetworkX, BioPython, OpenAI-Gym, Stable Baseline 3, Flask, OpenPose, Rasa, Transformers…
+**Verilog HDL**: Xilinx Vivado ML, Modelsim…
+
+**MATLAB**, **LabVIEW**, **Multisim**, **Proteus**, **Altium Designer**, **Wireshark**, **Inventor**, **Ubuntu/Kali Linux**, **Gephi**…
