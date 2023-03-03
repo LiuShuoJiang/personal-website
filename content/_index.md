@@ -8,7 +8,9 @@ draft: false
 
 **Undergraduate Student 👤, Xi'an Jiaotong University 🏫**
 
-**Note** 🔔🔔🔔: The site is still under construction, so the relevant content is not exhaustive or complete!
+{{% notice style="note" %}}
+The site is still under construction, so the relevant content is not exhaustive or complete!
+{{% /notice %}}
 
 \_Email 📠: Leo2001@stu.xjtu.edu.cn; leoshuojiang@gmail.com
 
