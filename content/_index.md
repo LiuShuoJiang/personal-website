@@ -16,7 +16,7 @@ The site is still under construction, so the relevant content is not exhaustive 
 
 ## Short Biography 📸
 
-**_Shuojiang Liu_** is an undergraduate student from [Xi'an Jiaotong University (XJTU)](http://en.xjtu.edu.cn/), majoring in **automation** at [Qian Xuesen Honors College](https://bjb.xjtu.edu.cn/) (_administrative_) and [School of Automation Science and Engineering](https://automation.xjtu.edu.cn/index.htm) (_professional_).
+**_Shuojiang Liu_** is an undergraduate student from [Xi'an Jiaotong University (XJTU)](http://en.xjtu.edu.cn/), majoring in [**automation**](https://en.wikipedia.org/wiki/Outline_of_automation) at [Qian Xuesen Honors College](https://bjb.xjtu.edu.cn/) (_administrative_) and [School of Automation Science and Engineering](https://automation.xjtu.edu.cn/index.htm) (_professional_).
 
 Starting in December 2022, he has participated in the [Non-Graduate Non-Exchange (NGNE)](https://www.comp.nus.edu.sg/~ngne/) program organized by [School of Computing (SoC)](https://www.comp.nus.edu.sg/) at [National University of Singapore (NUS)](https://nus.edu.sg/), where he is conducting **computer science** research related to Human-Computer Interaction (HCI) under the supervision of [Asst. Prof. Yi-Chieh Lee](https://www.yclee.net).
 
@@ -30,23 +30,35 @@ Graph Neural Networks, Reinforcement Learning, Image Processing, Computational B
 
 - **Xi'an Jiaotong University (XJTU), China**
 
-  - Honors Bachelor Degree in Automation Science and Engineering
+  - Bachelor's Degree with Honors in Automation Science and Engineering
+  - Major: Automation (Honors Engineering Program, [Qian Xuesen](https://en.wikipedia.org/wiki/Qian_Xuesen) Class)
   - [Qian Xuesen Honors College](https://bjb.xjtu.edu.cn/)
   - August 2019 ~ June 2023
   - Supervisor: [Liangjun Ke](https://gr.xjtu.edu.cn/web/keljxjtu) and [Hongbin Pei](https://scholar.google.com/citations?user=FxVmazsAAAAJ&hl=en)
 
 - **National University of Singapore (NUS), Singapore**
 
+  - [Computer Science Summer Workshop](https://sws.comp.nus.edu.sg/) Program
+  - Major: Computer Science
+  - [School of Computing (SoC)](https://www.comp.nus.edu.sg/)
+  - May 2022 ~ August 2022
+  - Supervisor: [Leong Hon Wai](https://www.comp.nus.edu.sg/~leonghw/) and [Ng Yen Kaow](https://www.geocities.ws/kalngyk/)
+
+- **National University of Singapore (NUS), Singapore**
+
   - [Non-Graduate Non-Exchange (NGNE)](https://www.comp.nus.edu.sg/~ngne/) Program (with Undergraduate Dissertation)
+  - Major: Computer Science
   - [School of Computing (SoC)](https://www.comp.nus.edu.sg/)
   - December 2022 ~ May 2023
   - Supervisor: [Yi-Chieh Lee](https://www.yclee.net)
+  - Collaborator: [Chen-Ting Chang](https://commarts.wisc.edu/staff/chang-chenting/)
 
 ## Skills 🖥️
 
 **C++/C**: JetBrains CLion, Visual Studio, Arm Keil µVision IDE, Visual Studio Code, Renesas CubeSuite+…
 
 **Python**: PyTorch, PyTorch-Geometric, OpenCV, Scikit-Learn, Scikit-Image, Pillow, DEAP, Matplotlib, NumPy, Pandas, NetworkX, BioPython, OpenAI-Gym, Stable Baseline 3, Flask, OpenPose, Rasa, Transformers…
+
 **Verilog HDL**: Xilinx Vivado ML, Modelsim…
 
 **MATLAB**, **LabVIEW**, **Multisim**, **Proteus**, **Altium Designer**, **Wireshark**, **Inventor**, **Ubuntu/Kali Linux**, **Gephi**…
