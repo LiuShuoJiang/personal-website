@@ -1,7 +1,7 @@
 baseURL = 'https://LiuShuoJiang.github.io'
 languageCode = 'en-us'
 title = "Shuojiang Liu's Personal Website"
-theme = "hugo-theme-relearn"
+theme = "hugo-theme-relearn-5122"
 
 # For search functionality
 [outputs]
@@ -9,6 +9,7 @@ home = [ "HTML", "RSS", "SEARCH"]
 
 [params]
   mathJaxInitialize = "{ \"chtml\": { \"displayAlign\": \"left\" } }"
+  themeVariant = [ "auto", "blue" ]
 
 [markup]
   [markup.highlight]

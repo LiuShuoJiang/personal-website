@@ -6,10 +6,10 @@ draft: false
 
 # Shuojiang Liu
 
-**Undergraduate Student 👤, Xi'an Jiaotong University 🏫**
+**4th Year Undergraduate Student 👤, Xi'an Jiaotong University 🏫**
 
 {{% notice style="note" %}}
-The site is still under construction, so the relevant content is not exhaustive or complete!
+The site is still under active construction, so the relevant content is not exhaustive or complete!
 {{% /notice %}}
 
 \_Email 📠: Leo2001@stu.xjtu.edu.cn; leoshuojiang@gmail.com
@@ -20,7 +20,7 @@ The site is still under construction, so the relevant content is not exhaustive 
 
 Starting in December 2022, he has participated in the [Non-Graduate Non-Exchange (NGNE)](https://www.comp.nus.edu.sg/~ngne/) program organized by [School of Computing (SoC)](https://www.comp.nus.edu.sg/) at [National University of Singapore (NUS)](https://nus.edu.sg/), where he is conducting **computer science** research related to Human-Computer Interaction (HCI) under the supervision of [Asst. Prof. Yi-Chieh Lee](https://www.yclee.net).
 
-He was born on July 2nd, 2001 in [Xi'an](https://en.wikipedia.org/wiki/Xi%27an), China. (See [quick facts about me]({{<ref "archives/quick_facts.md">}}))
+He was born on July 2nd, 2001 in [Xi'an](https://en.wikipedia.org/wiki/Xi%27an), China. (See [quick facts about Shuojiang Liu]({{<ref "archives/quick_facts.md">}}))
 
 ## Research Interests 💡
 
@@ -63,4 +63,4 @@ Graph Neural Networks, Reinforcement Learning, Image Processing, Computational B
 
 **MATLAB**, **LabVIEW**, **Multisim**, **Proteus**, **Altium Designer**, **Wireshark**, **Inventor**, **Ubuntu/Kali Linux**, **Gephi**…
 
-Currently he is learning Javascript and NodeJS.
+Currently he is learning Javascript and Node.js.
