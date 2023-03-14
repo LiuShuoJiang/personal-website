@@ -55,11 +55,20 @@ Graph Neural Networks, Reinforcement Learning, Image Processing, Computational B
 
 ## Skills 🖥️
 
-**C++/C**: JetBrains CLion, Visual Studio, Arm Keil µVision IDE, Visual Studio Code, Renesas CubeSuite+…
+**C++/C**:
+{{% expand title="Expand to view..." %}}
+_IDE/Code Editor/Toolchain_: JetBrains CLion, Visual Studio, Arm Keil µVision IDE, Visual Studio Code, Renesas CubeSuite+…
+{{% /expand %}}
 
-**Python**: PyTorch, PyTorch-Geometric, OpenCV, Scikit-Learn, Scikit-Image, Pillow, DEAP, Matplotlib, NumPy, Pandas, NetworkX, BioPython, OpenAI-Gym, Stable Baseline 3, Flask, OpenPose, Rasa, Transformers…
+**Python**:
+{{% expand title="Expand to view..." %}}
+_Python Libraries/Packages_: PyTorch, PyTorch-Geometric, OpenCV, Scikit-Learn, Scikit-Image, Pillow, DEAP, Matplotlib, NumPy, Pandas, NetworkX, BioPython, OpenAI-Gym, Stable Baseline 3, Flask, OpenPose, Rasa, Transformers…
+{{% /expand %}}
 
-**Verilog HDL**: Xilinx Vivado ML, Modelsim…
+**Verilog HDL**:
+{{% expand title="Expand to view..." %}}
+_Toolkits_: Xilinx Vivado ML, Modelsim…
+{{% /expand %}}
 
 **MATLAB**, **LabVIEW**, **Multisim**, **Proteus**, **Altium Designer**, **Wireshark**, **Inventor**, **Ubuntu/Kali Linux**, **Gephi**…
 

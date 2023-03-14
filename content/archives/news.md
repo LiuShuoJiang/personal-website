@@ -4,6 +4,10 @@ date: 2023-03-13T23:33:46+08:00
 draft: false
 ---
 
-## March 12th, 2023
+{{% notice style="tip" title="Notice" %}}
+The following content documents noteworthy news about my personal life.
+{{% /notice %}}
 
-🎉🎉🎉 Liu Shuojiang has earned a spot at some prestigious graduate institution after tremendous effort. (He has not determined which school he will attend yet.)
+## March 14th, 2023
+
+🎉🎉🎉 Liu Shuojiang was awarded the honorary title of Distinguished Graduate by Xi'an Jiaotong University.
