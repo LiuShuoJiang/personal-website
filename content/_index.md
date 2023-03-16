@@ -62,7 +62,7 @@ _IDE/Code Editor/Toolchain_: JetBrains CLion, Visual Studio, Arm Keil µVision I
 
 **Python**:
 {{% expand title="Expand to view..." %}}
-_Python Libraries/Packages_: PyTorch, PyTorch-Geometric, OpenCV, Scikit-Learn, Scikit-Image, Pillow, DEAP, Matplotlib, NumPy, Pandas, NetworkX, BioPython, OpenAI-Gym, Stable Baseline 3, Flask, OpenPose, Rasa, Transformers…
+_Python Libraries/Packages_: PyTorch, PyTorch-Geometric, OpenCV, Scikit-Learn, Scikit-Image, Pillow, DEAP, Matplotlib, NumPy, Pandas, NetworkX, BioPython, OpenAI-Gym, Stable Baseline 3, Flask, OpenPose, Rasa, HuggingFace Transformers…
 {{% /expand %}}
 
 **Verilog HDL**:
