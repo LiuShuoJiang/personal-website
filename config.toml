@@ -23,3 +23,6 @@ name = "<i class='fab fa-fw fa-github'></i> GitHub repository"
 identifier = "ds"
 url = "https://github.com/LiuShuoJiang"
 weight = 10
+
+[markup.goldmark.renderer]
+  unsafe = true
