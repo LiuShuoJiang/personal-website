@@ -8,6 +8,10 @@ draft: false
 The following content documents noteworthy news about my personal life.
 {{% /notice %}}
 
+## March 21st, 2023
+
+I attended the [Singapore HCI 2023 Annual Gathering](https://sites.google.com/view/singaporehci2023/homepage).
+
 ## March 14th, 2023
 
-🎉🎉🎉 Liu Shuojiang was awarded the honorary title of Distinguished Graduate by Xi'an Jiaotong University.
+🎉🎉🎉 I was awarded the honorary title of Distinguished Graduate by Xi'an Jiaotong University.
