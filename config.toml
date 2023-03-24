@@ -19,10 +19,20 @@ home = [ "HTML", "RSS", "SEARCH"]
     guessSyntax = false
 
 [[menu.shortcuts]]
-name = "<i class='fab fa-fw fa-github'></i> GitHub repository"
+name = "<i class='fab fa-fw fa-github'></i> GitHub Repository"
 identifier = "ds"
 url = "https://github.com/LiuShuoJiang"
 weight = 10
+
+[[menu.shortcuts]]
+name = "<i class='fas fa-fw fa-camera'></i> Hugging Face"
+url = "https://huggingface.co/shuojiang"
+weight = 11
+
+[[menu.shortcuts]]
+name = "<i class='fas fa-fw fa-bookmark'></i> XJTU AI"
+url = "https://huggingface.co/XJTU-AI"
+weight = 20
 
 [markup.goldmark.renderer]
   unsafe = true
