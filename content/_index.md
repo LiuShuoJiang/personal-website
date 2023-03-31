@@ -69,6 +69,8 @@ Graph Neural Networks, Reinforcement Learning, Image Processing, Computational B
   - Supervisor: [Yu Li](https://liyu95.com/)
   - Theme: Development of Protein Multiple Structure Information retrieval Tools Based on Protein Structure Representation Learning
 
+{{% expand title="Expand to view more..." %}}
+
 - **Research Intern, Xi'an Jiaotong University (XJTU), China**
 
   - May 2022 ~ November 2022
@@ -85,6 +87,7 @@ Graph Neural Networks, Reinforcement Learning, Image Processing, Computational B
   - October 2021 ~ May 2022
   - Supervisor: [Hongbin Pei](https://scholar.google.com/citations?user=FxVmazsAAAAJ&hl=en)
   - Theme: Comprehensive Research on Transportation and Molecular Network Optimization Based on Graph Neural Networks
+    {{% /expand %}}
 
 ## Skills 🖥️
 
