@@ -5,9 +5,9 @@ draft: false
 ---
 
 {{% notice style="note" %}}
-Please enable third-party cookies in your browser to load this page correctly.
+Please allow third-party cookies in your browser to load this page correctly.
 {{% /notice %}}
 
-Listed below is my weekly schedule. Note that this schedule only includes my primary classes and meetings, and not my entire work schedule. Please send me an Outlook schedule based on the time slot if you would like to schedule a meeting with me. The schedule is in accordance with Beijing time (GMT+8).
+Listed below is my weekly schedule. Note that this schedule only includes my primary classes and meetings, and not my entire work schedule. The schedule is in accordance with Eastern Time (UTC-5:00).
 
-<iframe src="https://outlook.live.com/owa/calendar/00000000-0000-0000-0000-000000000000/0d5abf65-43ed-467f-82b4-1a3ac8526d13/cid-A8301ECA063CA745/index.html" style="border-width:0" width="1020" height="800" style="border:1px solid black;"></iframe>
+<iframe src="https://outlook.office365.com/owa/calendar/78b0ff447bef4e958cfb397899571728@gatech.edu/95b5cee507034cbba402b86177a88d386059185462047291480/calendar.html" style="border-width:0" width="1020" height="800" style="border:1px solid black;"></iframe>

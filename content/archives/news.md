@@ -8,6 +8,18 @@ draft: false
 The following content documents noteworthy news about my personal life.
 {{% /notice %}}
 
+## August 19th, 2023
+
+I arrived in Atlanta, GA on a Qatar Airways flight.
+
+## June 9th, 2023
+
+I participated in the undergraduate graduation defense and was unanimously approved by all professors.
+
+## April 4th, 2023
+
+I was accepted into the Georgia Tech graduate program!
+
 ## March 21st, 2023
 
 I attended the [Singapore HCI 2023 Annual Gathering](https://sites.google.com/view/singaporehci2023/homepage).

@@ -6,19 +6,23 @@ draft: false
 
 # Shuojiang Liu
 
-**4th Year Undergraduate Student 👤, Xi'an Jiaotong University 🏫**
+<img src="sign.png" width=150>
+
+**1st Year Master's Student 👤, Georgia Institute of Technology 🏫**
 
 {{% notice style="note" %}}
-The site is still under active construction, so the relevant content is not exhaustive or complete!
+The site is still under active construction and the relevant content is not exhaustive or complete.
 {{% /notice %}}
 
-\_Email 📠: Leo2001@stu.xjtu.edu.cn; leoshuojiang@gmail.com
+\_Email 📠: shuojiang@gatech.edu 
 
 ## Short Biography 📸
 
-**_Shuojiang Liu_** is an undergraduate student from [Xi'an Jiaotong University (XJTU)](http://en.xjtu.edu.cn/), majoring in [**automation**](https://en.wikipedia.org/wiki/Outline_of_automation) at [Qian Xuesen Honors College](https://bjb.xjtu.edu.cn/) (_administrative_) and [School of Automation Science and Engineering](https://automation.xjtu.edu.cn/index.htm) (_professional_).
+**_Shuojiang Liu_** (刘 朔 江) is a first-year master's student at [Georgia Institute of Technology (Georgia Tech)](https://www.gatech.edu/) with a major in [**computational science and engineering**](https://cse.gatech.edu/).
 
-Starting in December 2022, he has participated in the [Non-Graduate Non-Exchange (NGNE)](https://www.comp.nus.edu.sg/~ngne/) program organized by [School of Computing (SoC)](https://www.comp.nus.edu.sg/) at [National University of Singapore (NUS)](https://nus.edu.sg/), where he is conducting **computer science** research related to Human-Computer Interaction (HCI) under the supervision of [Asst. Prof. Yi-Chieh Lee](https://www.yclee.net).
+Before joining Georgia Tech, he was an undergraduate student from [Xi'an Jiaotong University (XJTU)](http://en.xjtu.edu.cn/), majoring in [**automation**](https://en.wikipedia.org/wiki/Outline_of_automation) at [Qian Xuesen Honors College](https://bjb.xjtu.edu.cn/) (_administrative_) and [School of Automation Science and Engineering](https://automation.xjtu.edu.cn/index.htm) (_professional_).
+
+From December 2022 to May 2023, he participated in the [Non-Graduate Non-Exchange (NGNE)](https://www.comp.nus.edu.sg/~ngne/) program organized by [School of Computing (SoC)](https://www.comp.nus.edu.sg/) at [National University of Singapore (NUS)](https://nus.edu.sg/), where he conducted **computer science** research related to Human-Computer Interaction (HCI) under the supervision of [Asst. Prof. Yi-Chieh Lee](https://www.yclee.net) as a research assistant in [AI for Social Good lab](https://www.ai4sg.org/).
 
 He was born on July 2nd, 2001 in [Xi'an](https://en.wikipedia.org/wiki/Xi%27an), China. (See [quick facts about Shuojiang Liu]({{<ref "archives/quick_facts.md">}}))
 
@@ -28,19 +32,19 @@ Graph Neural Networks, Reinforcement Learning, Image Processing, Computational B
 
 ## Education 🏛️
 
+- **[Georgia Institute of Technology (Georgia Tech)](https://www.gatech.edu/), United States**
+  - Master of Science in Computational Science and Engineering (MS CSE) Program
+  - Major: Computational Science and Engineering (CSE)
+  - [CSE Home Unit](https://cse.gatech.edu/cse-home-units): Electrical and Computer Engineering
+  - [School of Computational Science and Engineering](https://cse.gatech.edu/) and [School of Electrical and Computer Engineering](https://ece.gatech.edu/)
+  - August 2023 ~ Present
+
 - **[National University of Singapore (NUS)](https://www.nus.edu.sg/), Singapore**
 
   - [Non-Graduate Non-Exchange (NGNE)](https://www.comp.nus.edu.sg/~ngne/) Program (with Undergraduate Dissertation)
   - Major: Computer Science
   - [School of Computing (SoC)](https://www.comp.nus.edu.sg/)
   - December 2022 ~ May 2023
-
-- **[National University of Singapore (NUS)](https://www.nus.edu.sg/), Singapore**
-
-  - [Computer Science Summer Workshop](https://sws.comp.nus.edu.sg/) Program
-  - Major: Computer Science
-  - [School of Computing (SoC)](https://www.comp.nus.edu.sg/)
-  - May 2022 ~ August 2022
 
 - **[Xi'an Jiaotong University (XJTU)](http://en.xjtu.edu.cn/), China**
 
@@ -107,5 +111,3 @@ _Toolkits_: Xilinx Vivado ML, Modelsim…
 {{% /expand %}}
 
 **MATLAB**, **LabVIEW**, **Multisim**, **Proteus**, **Altium Designer**, **Wireshark**, **Inventor**, **Ubuntu/Kali Linux**, **Gephi**…
-
-Currently he is learning Javascript and Node.js.
