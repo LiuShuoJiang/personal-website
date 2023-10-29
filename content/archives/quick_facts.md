@@ -6,7 +6,7 @@ draft: false
 
 ## The following _informal_ content can help you quickly understand Shuojiang Liu 👋👋👋
 
-{{% notice style="warning" title="Pre-viewing Tips" %}}
+{{% notice style="note" title="Before viewing..." %}}
 The information provided below is highly subjective and presented in an unprofessional manner, and the presentation itself is not yet rigorous.
 {{% /notice %}}
 
