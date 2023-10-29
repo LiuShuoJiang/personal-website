@@ -1,7 +1,7 @@
 baseURL = 'https://LiuShuoJiang.github.io'
 languageCode = 'en-us'
 title = "Shuojiang Liu's Personal Website"
-theme = "hugo-theme-relearn-5200"
+theme = "hugo-theme-relearn-5230"
 
 # For search functionality
 [outputs]
@@ -9,7 +9,8 @@ home = [ "HTML", "RSS", "SEARCH"]
 
 [params]
   mathJaxInitialize = "{ \"chtml\": { \"displayAlign\": \"left\" } }"
-  themeVariant = [ "auto", "blue" ]
+  themeVariant = [ "auto", "relearn-bright" ]
+  themeVariantAuto = [ "relearn-bright", "neon" ]
 
 [markup]
   [markup.highlight]
@@ -25,6 +26,11 @@ url = "https://github.com/LiuShuoJiang"
 weight = 10
 
 [[menu.shortcuts]]
+name = "<i class='fas fa-fw fa-camera'></i> LinkedIn"
+url = "https://www.linkedin.com/in/shuojiang-liu-09a749260/"
+weight = 11
+
+[[menu.shortcuts]]
 name = "<i class='fas fa-fw fa-camera'></i> Hugging Face"
 url = "https://huggingface.co/shuojiang"
 weight = 11
@@ -33,6 +39,16 @@ weight = 11
 name = "<i class='fas fa-fw fa-bookmark'></i> XJTU AI"
 url = "https://huggingface.co/XJTU-AI"
 weight = 20
+
+[[menu.shortcuts]]
+name = "<i class='fas fa-fw fa-tags'></i> Algorithm Notes"
+url = "https://github.com/LiuShuoJiang/algorithm-notes"
+weight = 40
+
+[[menu.shortcuts]]
+name = "<i class='fas fa-fw fa-tags'></i> Numerical Notes"
+url = "https://liushuojiang.github.io/Numerical-Linear-Algebra/"
+weight = 40
 
 [markup.goldmark.renderer]
   unsafe = true
