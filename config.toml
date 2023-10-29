@@ -9,8 +9,7 @@ home = [ "HTML", "RSS", "SEARCH"]
 
 [params]
   mathJaxInitialize = "{ \"chtml\": { \"displayAlign\": \"left\" } }"
-  themeVariant = [ "auto", "relearn-bright" ]
-  themeVariantAuto = [ "relearn-bright", "neon" ]
+  themeVariant = [ "neon", "relearn-bright" ]
 
 [markup]
   [markup.highlight]
