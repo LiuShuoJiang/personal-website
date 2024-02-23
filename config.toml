@@ -1,7 +1,7 @@
 baseURL = 'https://LiuShuoJiang.github.io'
 languageCode = 'en-us'
 title = "Shuojiang Liu's Personal Website"
-theme = "hugo-theme-relearn-5230"
+theme = "hugo-theme-relearn-5241"
 
 # For search functionality
 [outputs]
@@ -19,7 +19,7 @@ home = [ "HTML", "RSS", "SEARCH"]
     guessSyntax = false
 
 [[menu.shortcuts]]
-name = "<i class='fab fa-fw fa-github'></i> GitHub Repository"
+name = "<i class='fab fa-fw fa-github'></i> GitHub"
 identifier = "ds"
 url = "https://github.com/LiuShuoJiang"
 weight = 10
@@ -41,7 +41,7 @@ weight = 20
 
 [[menu.shortcuts]]
 name = "<i class='fas fa-fw fa-tags'></i> Algorithm Notes"
-url = "https://github.com/LiuShuoJiang/algorithm-notes"
+url = "https://liushuojiang.github.io/algorithm-notes/"
 weight = 40
 
 [[menu.shortcuts]]
