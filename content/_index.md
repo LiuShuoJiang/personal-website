@@ -18,13 +18,9 @@ Email 📠: shuojiang@gatech.edu
 
 Before joining Georgia Tech, he obtained his Bachelor of Engineering (Honors Engineering Program) degree from [Xi'an Jiaotong University (XJTU)](http://en.xjtu.edu.cn/), majoring in [**automation**](https://en.wikipedia.org/wiki/Outline_of_automation) at [Qian Xuesen Honors College](https://bjb.xjtu.edu.cn/) (_administrative_) and [School of Automation Science and Engineering](https://automation.xjtu.edu.cn/index.htm) (_professional_).
 
-From December 2022 to June 2023, he exchanged at [School of Computing (SoC)](https://www.comp.nus.edu.sg/) from [National University of Singapore (NUS)](https://nus.edu.sg/), where he conducted **computer science** research related to Human-Computer Interaction (HCI) under the supervision of [Asst. Prof. Yi-Chieh Lee](https://www.yclee.net) as a research assistant in [AI for Social Good lab](https://www.ai4sg.org/).
+From December 2022 to June 2023, he exchanged at [School of Computing (SoC)](https://www.comp.nus.edu.sg/) from [National University of Singapore (NUS)](https://nus.edu.sg/).
 
 He was born on July 2nd, 2001 in [Xi'an](https://en.wikipedia.org/wiki/Xi%27an), China. (See [quick facts about Shuojiang Liu]({{<ref "archives/quick_facts.md">}}))
-
-## Interests 💡
-
-Efficient Machine Learning Methods, Scientific Computing, Graph Neural Networks, Digital Image Processing, Computational Biology, Conversational Agents, Natural Language Processing...
 
 ## Education 🏛️
 
@@ -54,7 +50,7 @@ Efficient Machine Learning Methods, Scientific Computing, Graph Neural Networks,
   - Gaozhong (General Secondary Education Certificate)
   - July 2016 ~ June 2019
 
-## Research and Project Experience 🔭
+## Selected Research and Project Experience 🔭
 
 - **Research Intern, National University of Singapore (NUS), Singapore**
 
@@ -77,7 +73,7 @@ Efficient Machine Learning Methods, Scientific Computing, Graph Neural Networks,
   - Supervisor: [Liangjun Ke](https://gr.xjtu.edu.cn/web/keljxjtu)
   - Theme: Reinforcement Learning for Decision Making
 
-- **Project Intern, National University of Singapore (NUS), Singapore**
+- **Intern, National University of Singapore (NUS), Singapore**
 
   - May 2022 ~ August 2022
   - Supervisor: [Leong Hon Wai](https://www.comp.nus.edu.sg/~leonghw/) and [Ng Yen Kaow](https://www.geocities.ws/kalngyk/)
@@ -89,13 +85,17 @@ Efficient Machine Learning Methods, Scientific Computing, Graph Neural Networks,
   - Theme: Comprehensive Research on Transportation and Molecular Network Optimization Based on Graph Neural Networks
     {{% /expand %}}
 
+## Research Interests 💡
+
+Efficient Machine Learning Methods, High-Performance Computing, Graph Neural Networks, Digital Image Processing, Computational Biology, Conversational Agents, Natural Language Processing...
+
 ## Skills 🖥️
 
 **C++/C**:
 {{% expand title="Expand to view..." %}}
-_IDEs_: JetBrains CLion (preferred), Visual Studio, Arm Keil µVision IDE, Renesas CubeSuite+…
+_Toolchains/Libraries_: CMake, OpenGL, OpenMP, MPI, CUDA, Protobuf…
 
-_Toolchains/Libraries_: CMake, OpenGL, OpenMP, Cuda…
+_IDEs_: JetBrains CLion, Visual Studio, Arm Keil µVision IDE, Renesas CubeSuite+…
 {{% /expand %}}
 
 **Python**:
@@ -108,4 +108,4 @@ _Python Libraries/Packages_: PyTorch, PyTorch-Geometric, OpenCV, Scikit-Learn, S
 _Toolkits_: Xilinx Vivado ML, Modelsim…
 {{% /expand %}}
 
-**MATLAB**, **LabVIEW**, **Multisim**, **Proteus**, **Altium Designer**, **Wireshark**, **Inventor**, **Ubuntu/Kali Linux**, **Gephi**…
+**MATLAB**, **LabVIEW**, **Multisim**, **Proteus**, **Altium Designer**, **Wireshark**, **Inventor**, **Linux System and Network Programming**, **Gephi**…
