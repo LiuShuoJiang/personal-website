@@ -1,7 +1,7 @@
 baseURL = 'https://LiuShuoJiang.github.io'
 languageCode = 'en-us'
-title = "Shuojiang Liu's Personal Website"
-theme = "hugo-theme-relearn-5241"
+title = "Shuojiang"
+theme = "hugo-theme-relearn-7001"
 
 # For search functionality
 [outputs]
@@ -26,7 +26,7 @@ weight = 10
 
 [[menu.shortcuts]]
 name = "<i class='fas fa-fw fa-camera'></i> LinkedIn"
-url = "https://www.linkedin.com/in/shuojiang-liu-09a749260/"
+url = "https://www.linkedin.com/in/shuojiang-liu/"
 weight = 11
 
 [[menu.shortcuts]]
